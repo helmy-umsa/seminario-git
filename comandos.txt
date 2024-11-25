@@ -23,6 +23,8 @@ git log
 git log --oneline
 
 
+touch [nombre_archivo.ext] // crear un archivo
+
 
 
 
