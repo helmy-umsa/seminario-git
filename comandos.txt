@@ -30,3 +30,7 @@ git branch
 
 git branch [nombre_rama] // crear rama
 
+git switch [nombre_rama] // cambiar a otra rama
+
+
+git merge
