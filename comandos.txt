@@ -20,7 +20,7 @@ git commit -m "Mensaje del COMMIT"
 
 git log
 
-git log --oneline
+git log --oneline --graph
 
 
 touch [nombre_archivo.ext] // crear un archivo
@@ -34,3 +34,20 @@ git switch [nombre_rama] // cambiar a otra rama
 
 
 git merge
+
+
+git branch -m [nombre_rama] // Cambiar nombre rama
+
+------------------------------------------------------------
+
+git remote -v
+
+git remote add origin https://github.com/helmy-umsa/seminario-git.git
+
+git branch -M main
+
+git push -u origin main
+
+
+
+git clone [repo github]
