@@ -1,0 +1,30 @@
+git config --global user.name ""
+
+git config --global user.email ""
+
+git config --global --list // Ver configuracion realizada
+
+
+git init // inicializar git
+
+git status // muestra estado de archivos
+
+
+git add [nombre_archivo]
+
+git add .
+
+
+git commit -m "Mensaje del COMMIT"
+
+
+git log
+
+git log --oneline
+
+
+
+
+
+
+
