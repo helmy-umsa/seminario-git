@@ -26,7 +26,7 @@ git log --oneline
 touch [nombre_archivo.ext] // crear un archivo
 
 
+git branch
 
-
-
+git branch [nombre_rama] // crear rama
 
